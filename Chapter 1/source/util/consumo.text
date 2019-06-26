@@ -1,0 +1,8 @@
+http://localhost:8080/phpmx/api/alta.php?id=1&nombre=juanito&edad=33
+http://localhost:8080/phpmx/api/alta.php?id=2&nombre=pedrito&edad=11
+http://localhost:8080/phpmx/api/alta.php?id=3&nombre=albertano&edad=222
+
+http://localhost:8080/phpmx/api/cambio.php?id=3&nombre=albertico&edad=22
+
+http://localhost:8080/phpmx/api/alta.php?id=99&nombre=adios&edad=123
+http://localhost:8080/phpmx/api/baja.php?id=99
